@@ -1,1 +1,148 @@
 @font-face { font-family: AudioWide; src: url('../font/Aw.ttf');}
+body{
+		margin: 0;
+		padding: 0;
+		width: 100%;
+}
+
+h1 {
+		font-family: "AudioWide";
+			font-size: 55px;
+			text-align: center;
+			color: #fff;
+			margin: 0;
+			padding: 0;
+}
+
+h2 {
+		font-family:"AudioWide";
+		font-weight: normal;
+		font-size: 40px;
+		color: #fff;
+		margin: 0;
+		padding: 0;
+}
+
+h3 {
+		font-family:"AudioWide";
+		font-weight: normal;
+		font-size: 16px;
+		text-align: center;
+		color: #fff;
+		margin: 0;
+		padding: 0;
+}
+
+.center { margin: 0 auto;}
+.content {margin: 0 auto; width: 960px; }
+.clear {clear: both; }
+
+#header {
+	width: 100%;
+	background: url('http://www.nasa.gov/images/content/693952main_pia15817-full_full.jpg');
+}
+
+#nav {
+	width: 410px; 
+	float: right;
+	margin-top: 20px;
+}
+
+#logo a {
+	color: #fff;
+	text-decoration: none; 
+	float: left;
+	font-size:30px;
+	margin-top: 20px;
+	color: #fff;
+	font-weight: bold;
+}
+
+#nav ul {
+	list-style: none;
+	display: block;
+	margin: 0 auto;
+	list-style: none;
+}
+
+#nav li {
+	margin-top: 9px;
+	float: left;
+	padding-left: 21px;
+}
+#nav li a {
+	color: #fff;
+	opacity: 0.6;
+	font-size: 16px;
+	text-decoration: none;
+}
+
+#nav li a.active { 
+	color: #fff;
+	opacity: 1;
+	border-bottom: 2px solid #fff;
+}
+
+.quotes {
+	font-family: "AudioWide", serif;
+	font-weight: normal;
+	font-size: 30px;
+	text-align: left;
+	margin: 50px auto;
+}
+
+#slide1, #slide2 {
+	width: 100%;
+}
+
+#slide1{
+	background: url('http://www.nasa.gov/images/content/693952main_pia15817-full_full.jpg') 50% 0 no-repeat fixed;
+	color: #fff;
+	height: 600px;
+	margin: 0;
+	padding: 200px 0 260px 0;
+	background-size: cover;
+}
+
+#slide2{
+	background: url('http://popwrapped.com/wp-content/uploads/2014/03/For-Cosmos.jpg') 50% 0 no-repeat fixed;
+	background-color: #fff;
+	color: #333333;
+	height: 900px;
+	margin: 0 auto;
+}
+
+#slide3{
+	background: url('http://madmikesamerica.com/wp-content/uploads/2014/03/cosmos.jpg') 50% 0 no-repeat fixed;
+	color: #fff;
+	height: 600px;
+	padding: 170px 0 0 0;
+	background-size: cover;
+}
+#slide4{
+	background: url('http://4.bp.blogspot.com/-vaL6TXeFwDk/T4T5PuFyDWI/AAAAAAAAAZw/o1rKMweG2wY/s1600/aaa.jpg') 50% 0 no-repeat fixed;
+	background-color: #fff;
+	color:#333333;
+	height: 300px;
+	padding: 200px 0;
+}
+#slide5{
+	background: url('http://www.ben.edu/news/2012/images/Cosmos_1.jpg') 50% 0 no-repeat fixed;
+	height: 200px;
+	margin: 0 auto;
+	padding: 250px 0;
+	color: #fff;
+	background-size: cover;
+}
+
+#copyright {
+	color: #fff;
+	font-family: "AudioWide";
+	font-size: 14 px;
+	margin-top: 100px;
+	text-align: center;
+}
+#copyright a {
+	text-decoration: none;
+	color: #fff;
+}
