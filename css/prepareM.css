@@ -110,6 +110,8 @@ h3 {
 	color: #333333;
 	height: 900px;
 	margin: 0 auto;
+	padding: 200px 0;
+	background-size: cover;
 }
 
 #slide3{
@@ -128,11 +130,11 @@ h3 {
 }
 #slide5{
 	background: url('http://www.ben.edu/news/2012/images/Cosmos_1.jpg') 50% 0 no-repeat fixed;
-	height: 200px;
+	height: 400px;
 	margin: 0 auto;
 	padding: 250px 0;
 	color: #fff;
-	background-size: cover;
+	background-size: 100% 100%;
 }
 
 #copyright {
