@@ -1,5 +1,5 @@
 @font-face{font-family:AudioWide;src:url('../font/Aw.ttf');}
-body{margin:0;padding:0;width:100%;}
+body{background-color:#000000;margin:0;padding:0;width:100%;}
 h1{font-family:"AudioWide";font-size:55px;text-align:center;color:#fff;margin:0;padding:0;}
 h2{font-family:"AudioWide";font-weight:normal;font-size:40px;color:#fff;margin:0;padding:0;}
 h3{font-family:"AudioWide";font-weight:normal;font-size:16px;text-align:center;color:#fff;margin:0;padding:0;}
@@ -22,3 +22,4 @@ h3{font-family:"AudioWide";font-weight:normal;font-size:16px;text-align:center;c
 #slide5{background:url('http://www.ben.edu/news/2012/images/Cosmos_1.jpg') 50% 0 no-repeat fixed;height:400px;margin:0 auto;padding:250px 0;color:#fff;background-size:100% 100%;}
 #copyright{color:#fff;font-family:"AudioWide";font-size:14 px;margin-top:100px;text-align:center;}
 #copyright a{text-decoration:none;color:#fff;}
+#world{display:block;}

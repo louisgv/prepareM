@@ -1,8 +1,9 @@
 @font-face { font-family: AudioWide; src: url('../font/Aw.ttf');}
 body{
-		margin: 0;
-		padding: 0;
-		width: 100%;
+	background-color: #000000;
+	margin: 0;
+	padding: 0;
+	width: 100%;
 }
 
 h1 {
@@ -147,4 +148,7 @@ h3 {
 #copyright a {
 	text-decoration: none;
 	color: #fff;
+}
+#world {
+    display: block;
 }
