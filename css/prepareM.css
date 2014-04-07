@@ -128,6 +128,8 @@ h3 {
 	color:#333333;
 	height: 300px;
 	padding: 200px 0;
+	background-size: cover;
+
 }
 #slide5{
 	background: url('http://www.ben.edu/news/2012/images/Cosmos_1.jpg') 50% 0 no-repeat fixed;
